@@ -12,7 +12,7 @@ int main() {
 		if (k == i)
 			sum = sum + k;
 	}
-	printf("1부터 100까지 소수의 합은 %d입니다.\n", sum);
+	printf("0부터 100까지 소수들의 합은 %d입니다.\n", sum);
 
 	return 0;
 }
